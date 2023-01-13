@@ -1,0 +1,54 @@
+.header {
+    color: #94693f;
+    background-color: #394b59;
+    text-align: center;
+}
+.menu ul{
+    
+  
+}
+.menu ul li{
+    list-style: none;
+    margin-right: 5px;
+    display: inline-block;
+}
+.about hr{
+width: 50%;
+size: 5px;
+}
+.about h2 {
+    color: #94693f;
+    text-align: center;
+}
+.about p{
+    padding-left: 50%;
+    text-align: right;
+}
+.menu1 ul {
+    list-style: circle;
+    color: blue;
+}
+.menu1 img{
+    width: 400px;
+}
+.menu2 ol {
+    list-style-type: upper-roman;
+}
+.menu2 img {
+    width: 400px;
+}
+
+.table thead {
+    background-color: gray;
+}
+.table .img1 {
+    background-image: url(./Image_buoi1/chilling-cafe-13.jpg);
+    color: white;
+}
+.table .img2 {
+    background-image: url(./Image_buoi1/chilling-cafe-11.jpg);
+    color: white;
+}
+p {
+    text-align: center;
+}
